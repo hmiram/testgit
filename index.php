@@ -6,7 +6,7 @@ $x = 1;
 
 if ($x == 1){
     ;
-    echo 'AJOP';
+    echo 'ANO';
 }
 else{
     echo 'NE';
