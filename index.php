@@ -2,7 +2,7 @@
 
 echo 'AHOJ zmena';
 
-if (1){
+if (TRUE){
     ;
 }
 
