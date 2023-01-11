@@ -6,5 +6,8 @@ if (TRUE){
     ;
     echo 'AJOP';
 }
+else{
+
+}
 
 echo 'HOVNO';
