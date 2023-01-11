@@ -1,6 +1,6 @@
 <?php
 
-echo 'AHOJ zmena';
+echo 'AHOJ zmena 56';
 
 if (TRUE){
     ;
