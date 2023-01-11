@@ -2,7 +2,9 @@
 
 echo 'AHOJ zmena 56';
 
-if (TRUE){
+$x = 1;
+
+if ($x == 1){
     ;
     echo 'AJOP';
 }
