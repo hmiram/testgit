@@ -1,3 +1,7 @@
 <?php
 
-echo 'AHOJ';
+echo 'AHOJ zmena';
+
+if (1){
+    ;
+}
